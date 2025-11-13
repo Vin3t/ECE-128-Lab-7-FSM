@@ -1,1 +1,2 @@
 # ECE-128-Lab-7-FSM
+The objective of this lab is to design and implement a 4-bit sequence detectors for the patterns 1100 and 1101 using Moore and Mealy machine models, and analyzing their simulated results. Then a 12-bit up counter capable of counting to 4095, followed by a binary-to-BCD converter using the Double Dabble algorithm to translate the counter’s binary output into a readable format. Finally, all modules are integrated into a top-level design that drives a multi-digit seven-segment display on the FPGA board. 
